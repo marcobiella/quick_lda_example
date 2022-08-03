@@ -1,3 +1,5 @@
+# Quick LDA Example  
+
 This project is developed explicitly to play around with NLP.
 Specifically, showcasing some easy LDA (Latent Dirichlet Allocation).  
 This technique is described in this
