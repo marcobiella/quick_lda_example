@@ -11,7 +11,7 @@ model based on intuition (you might want to be more rigorous).
 
 ### The question: “Is lamda sentient today?”
 
-I want to know what people (on Twitter) talk (think?) about lamda
+I want to know what people (on Twitter) say (think?) about lamda
 today.  
 So, I’m using Twitter’s API to download people’s tweets related to lamda
 or sentient ai and model their discourse using topic modeling.
